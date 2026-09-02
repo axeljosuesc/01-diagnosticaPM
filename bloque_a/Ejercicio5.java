@@ -5,7 +5,7 @@ public class Ejercicio5 {
         }
 
     public static void main(String[] args) {
-        double a, b;
+        double a =10, b=10;
         
         double promedio = calcularPromedio(a, b); 
         System.out.println(promedio); 
