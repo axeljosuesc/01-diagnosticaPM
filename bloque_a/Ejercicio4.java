@@ -1,8 +1,17 @@
 public class Ejercicio4 {
     public static void main(String[] args) {
-        // TODO: Imprimir números del 1 al 20 usando bucle 'for'
 
-        // TODO: Imprimir números del 20 al 1 usando bucle 'while'
+        void Bucles (){
+
+            for (numero=0, numero < 19, numero++){
+                System.out.println(numero);
+            }
+
+            while (numero>=1) {
+                System.out.println(numero);
+            }
+        }
+
 
     }
 }
