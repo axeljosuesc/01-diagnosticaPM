@@ -13,10 +13,9 @@
 
 body {
   background-color: #F1F5F9;
-  /* BUG CSS: Propiedades inválidas o mal escritas */
-  display: flexer;
-  align-item: center;
-  padding: 20px;
+  display: flex;
+  text-align: center; /*aling item*/
+  padding: 20rem;
 }
 
 .contenedor {
