@@ -5,7 +5,7 @@ const mensajeResultado = document.querySelector("#mensaje-resultado");
 
 function generarSaludo() {
     const nombre = inputNombre.value;
-    mensajeResultado.textContent = "Hola "+nombre;
+    mensajeResultado.textContent = "Saludos"+nombre;
 }
 
 function limpiar() {
