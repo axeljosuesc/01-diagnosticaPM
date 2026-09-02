@@ -9,6 +9,7 @@ public class Ejercicio4 {
 
             while (numero>=1) {
                 System.out.println(numero);
+                numero--;
             }
         }
 

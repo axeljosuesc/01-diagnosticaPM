@@ -5,7 +5,7 @@ public class Ejercicio3 {
         Scanner Leer = new Scanner(System.in);
 
         System.out.println("Dime edad");
-        int Cadena = Leer.nextInt;
+        int edad = Leer.nextInt;
 
         void Condicional(){
             if (edad>17){
